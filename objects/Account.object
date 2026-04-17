@@ -275,13 +275,6 @@
         <type>Currency</type>
     </fields>
     <fields>
-        <fullName>Account_verified__c</fullName>
-        <defaultValue>false</defaultValue>
-        <label>Account verified?</label>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
